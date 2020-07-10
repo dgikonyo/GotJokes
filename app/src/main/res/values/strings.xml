@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StartLab</string>
+    <string name="button_text">What do you call a bee that is hungry</string>
+    <string name="button_response">Njambi</string>
+</resources>
